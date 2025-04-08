@@ -121,7 +121,7 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 ## License
 This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
 
-## Acknowledgments
+
 - Built with Mixtral 8x22B by Mistral AI.
 - Optimized with DeepSpeed.
 - Inspired by philosophical inquiries into freedom and existence.
@@ -129,5 +129,4 @@ This project is licensed under the Apache License, Version 2.0. See the LICENSE 
 
 ## Contact
 For questions or collaboration, reach out to **Vi Nhat Son** via GitHub issues or vinhatson@gmail.com.
-## Donate: 
-## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+
